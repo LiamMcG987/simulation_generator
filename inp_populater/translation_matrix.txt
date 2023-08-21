@@ -1,0 +1,17 @@
+
+Translations
+
+Simulation: 
+part: translation matrix (x, y, z)
+
+top_load
+rigid_body_top_plate: 0, 0, 17.05
+rigid_body_ground_plate: 0, 0, -218.74
+
+squeeze
+rigid_body_finger: 0, 28.0, 0
+rigid_body_hand: 0, -28.0, 0
+
+side_load (move in opposite directions)
+rigid_body_side: 56.0, 0, 0
+rigid_body_side: -56.0, 0, 0
